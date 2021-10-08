@@ -1,4 +1,4 @@
-# CRUD_App_with_jQuery_HTML_js
+# CRUD_App_with_JavaScript_HTML_jQuery
 
 This project is added and processes a list in an html page
 
